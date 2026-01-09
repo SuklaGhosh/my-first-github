@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 500px;
+    height: 250px;
+    color: peru;
+    background-color: rgb(79, 73, 73);
+    border: 15px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 33%;
+}
+p{
+    color: orange;
+    background-color: rgb(33, 5, 117);
+    margin: 20px 100px;
+    padding: 20px;
+    border: 10px solid rgb(225, 135, 18);
+    border-radius: 5px 50px;
+    text-align: center;
+}
+img{
+    width: 400px;
+    margin: 0px 37%;
+    box-shadow: 15px 20px 15px rgb(117, 113, 103);
+}
